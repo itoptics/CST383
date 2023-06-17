@@ -1,8 +1,8 @@
-# CST 383-30 Summer 2023
+# CST 383-30 Summer 2023 - IT Optics Final Project Report
 ### Christian Rodriguez, Emmanuel Salcedo, Ranjita Summan, Crystian Chavez
 ### Mehmet Ergezer
 ### 16 June 2023
-## IT Optics Final Project Report
+## 
 ### Introduction 
 The project was undertaken to build a system that predicts the cost of a home based on features such as square footage, number of bedrooms, and number of bathrooms. The goal was to provide a tool that can help individuals and real estate professionals estimate the value of a home in the USA. The research question was: Can we predict the cost of a home in the USA based on its square footage, number of bedrooms, and number of bathrooms? The purpose of the research was to develop a predictive model that can provide insights into the relationship between these features and the price of a home. The source of the dataset used in this project is the "USA Real Estate Dataset" from Kaggle. The dataset contains information about real estate properties in the USA, including features such as the status of the property, number of bedrooms and bathrooms, square footage, city, state, zip code, previous sold date, and price. The data consists of 407,890 entries with 10 columns, including both numerical and categorical data. The data preprocessing steps included handling missing values and removing rows with missing data in important columns such as the number of bedrooms, number of bathrooms, and square footage. Outliers were also identified and removed to improve the accuracy of the analysis and visualization.
 
