@@ -1,6 +1,6 @@
 # CST 383-30 Summer 2023 - IT Optics Final Project Report
 ### Christian Rodriguez, Emmanuel Salcedo, Ranjita Summan, Crystian Chavez
-### Mehmet Ergezer @profmemo
+### Mehmet Ergezer [@profmemo] ((https://github.com/profmemo))
 ### 16 June 2023
 ## 
 ### Introduction 
